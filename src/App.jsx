@@ -31,7 +31,7 @@ function App() {
                     title="LMS"
                     description="LMS is a learning management system for schools and universities. It is designed to help teachers and students manage their courses, assignments, and grades."
                     stack="Laravel, Blade, PusherJS, Filament, Vite, TailwindCSS"
-                    imgSrc="./src/assets/LMS.png"
+                    imgSrc="/assets/LMS.png"
                     hasLink={false}
                     link="https://agra-coding.me"
                 />
@@ -39,7 +39,7 @@ function App() {
                     title="Agra"
                     description="Agra is a gamified learning management system for Java and C# programming languages. It is designed to help students learn programming languages in a fun and interactive way. You can login by these credentials: student1@example.com and password: password"
                     stack="Laravel, Blade, PusherJS, Filament, Mix, TailwindCSS"
-                    imgSrc="./src/assets/Agra.png"
+                    imgSrc="/assets/Agra.png"
                     hasLink={true}
                     link="https://agra-coding.me"
                 />
@@ -47,7 +47,7 @@ function App() {
                     title="Aquaters"
                     description="Interstellar is a space-themed game where players can explore the galaxy, fight against aliensm, and compete in the leaderboards. It is created using C# and Unity game engine."
                     stack="C#, Unity, Visual Studio"
-                    imgSrc="./src/assets/Aquaters.png"
+                    imgSrc="/assets/Aquaters.png"
                     hasLink={true}
                     link="https://github.com/kairo-18/Aquaters"
                 />
@@ -55,7 +55,7 @@ function App() {
                     title="Interstellar"
                     description="Interstellar is a space-themed game where players can explore the galaxy, fight against aliensm, and compete in the leaderboards. It is created using C# and Unity game engine."
                     stack="C#, Unity, Visual Studio"
-                    imgSrc="./src/assets/interstell.jpg"
+                    imgSrc="assets/interstell.jpg"
                     hasLink={true}
                     link="https://agra-coding.me"
                 />
