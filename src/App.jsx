@@ -47,7 +47,7 @@ function App() {
                     title="Aquaters"
                     description="Interstellar is a space-themed game where players can explore the galaxy, fight against aliensm, and compete in the leaderboards. It is created using C# and Unity game engine."
                     stack="C#, Unity, Visual Studio"
-                    imgSrc="/src/assets/Aquaters.png"
+                    imgSrc="src/assets/Aquaters.png"
                     hasLink={true}
                     link="https://github.com/kairo-18/Aquaters"
                 />
