@@ -15,7 +15,7 @@ const Contact = () => {
             <div className='sm:flex mt-5'>
                 <a href='https://www.linkedin.com/in/gladimir-dungo-3a3b3a1b4/' className='mr-5'><img src='src/assets/LinkedIn.png'/></a>
                 <a href='https://www.github.com/kairo-18' className='mr-5'><img src='src/assets/Github.png'/></a>
-                <a href='https://www.facebook.com' className='mr-5'><img className="" src='src/assets/Email.png'/></a>
+                <a href='https://www.facebook.com/chairoisglad/' className='mr-5'><img className="" src='src/assets/Email.png'/></a>
             </div>
         </div>
 
