@@ -27,9 +27,9 @@ return (
             <div className="absolute top-0 left-[4%]">
                 <div className='ml-[15px] w-[1px] h-[200px] bg-gray-300'></div>
                 <div className="mt-3">
-                    <img src={'/assets/Github.png'} className=''/>
-                    <img src={'/assets/Email.png'} className=''/>
-                    <img src={'/assets/Linkedin.png'} className=''/>
+                    <a href='https://www.github.com/kairo-18'><img src={'/assets/Github.png'} className='' alt='Github'/></a>
+                    <a href='https://www.facebook.com/chairoisglad/'><img src={'/assets/Email.png'} className='' alt='Email'/></a>
+                    <a href='https://www.linkedin.com/in/gladimir-dungo-a884aa297/'><img src={'/assets/Linkedin.png'} className='' alt='Linkedin'/></a>
                 </div>
             </div>
     </div>
