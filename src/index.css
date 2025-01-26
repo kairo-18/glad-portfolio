@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@layer base{
+  body{
+    font-family: "Fira Code", serif;
+    background-image: url("src/assets/stardust.png");
+    background-repeat: repeat;
+  }
+}
