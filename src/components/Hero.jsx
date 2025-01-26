@@ -29,7 +29,7 @@ const Hero = () => {
                 />
                 <img
                     className="sm:w-[550px] relative z-10 lg:left-0 left-[10%]"
-                    src="/assets/profilehero.png"
+                    src={"/profilehero.png"}
                 ></img>
                 <div className="relative border-1 p-2 px-5 lg:left-[-100px] left-[-4%] bottom-[-10px] flex">
                 <div className='w-[21px] h-[21px] bg-[#C778DD] mr-5'></div>

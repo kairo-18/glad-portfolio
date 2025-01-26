@@ -20,16 +20,16 @@ const Skills = () => {
                 </div>
 
                 <div className="absolute top-0">
-                    <img className="p-5" src="src/assets/Dots.png" alt="Dots" />
+                    <img className="p-5" src="./src/assets/Dots.png" alt="Dots" />
                 </div>
 
                 <div className="absolute bottom-0">
-                    <img className="p-5" src="src/assets/rectangle.png" alt="Dots" />
+                    <img className="p-5" src="./src/assets/rectangle.png" alt="Dots" />
                 </div>
 
 
                 <div className="absolute bottom-0 right-0">
-                    <img className="p-5" src="src/assets/Dots.png" alt="Dots" />
+                    <img className="p-5" src="./src/assets/Dots.png" alt="Dots" />
                 </div>
             </div>
 
