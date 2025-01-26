@@ -12,9 +12,10 @@ const Hero = () => {
                     I develop responsive, beautiful, and functional websites{" "}
                     <br></br>that bring users in.
                 </p>
-                <button className="border-1 border-[#C778DD] p-2 px-5 rounded-2xl mt-[3%]" href="mailto:gladimirdungo@gmail.com">
+                <br></br>
+                <a className="border-1 border-[#C778DD] p-2 px-5 rounded-2xl mt-[5%]" href="mailto:gladimirdungo@gmail.com">
                     Contact me
-                </button>
+                </a>
             </div>
             <div className="relative ml-[5%]">
                 <img

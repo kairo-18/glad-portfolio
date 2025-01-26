@@ -43,7 +43,7 @@ function App() {
                 />
                 <Projects
                     title="Aquaters"
-                    description="Interstellar is a space-themed game where players can explore the galaxy, fight against aliensm, and compete in the leaderboards. It is created using C# and Unity game engine."
+                    description="Aquaters is a POS System for a water refilling station. It is designed to help water refilling stations manage their customers, products, and sales."
                     stack="C#, Unity, Visual Studio"
                     imgSrc={"/assets/Aquaters.png"}
                     hasLink={true}
@@ -55,7 +55,7 @@ function App() {
                     stack="C#, Unity, Visual Studio"
                     imgSrc={"assets/interstell.jpg"}
                     hasLink={true}
-                    link="https://agra-coding.me"
+                    link="https://drive.google.com/drive/folders/1qtzinCpSD4e6MtxgFV1hNpNTlMszydct?usp=sharing"
                 />
             </div>
 

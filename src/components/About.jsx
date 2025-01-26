@@ -14,7 +14,7 @@ const About = () => {
 
             <div className="sm:flex"> 
                 <p className="sm:w-[30%] w-[70%] ml-[12%] text-[#ABB2BF] text-justify text-lg ">
-                    Hi there! I'm John Doe.
+                    Hi there! I'm Gladimir Dungo.
                     <br></br>
                     <br></br>
                     A full-stack web developer based in Caloocan City. I have a passion for web development and love to create websites and web applications that are both functional and visually appealing.
