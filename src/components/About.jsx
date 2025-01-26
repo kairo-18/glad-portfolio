@@ -26,9 +26,9 @@ const About = () => {
                 </p>
 
                 <div className="sm:w-[30%] w-[70%] ml-[12%] mt-5 relative">
-                    <img src="./src/assets/profilehero.png" className="w-[100%] rounded-full sm:absolute sm:top-[-100px]"/>
-                    <img src="./src/assets/Dots.png" alt="Dots" className="sm:absolute right-5 sm:flex hidden" />
-                    <img src="./src/assets/rectangle.png" alt="rectangle" className="sm:absolute left-5 bottom-0 sm:flex hidden" />
+                    <img src={"/assets/profilehero.png"} className="w-[100%] rounded-full sm:absolute sm:top-[-100px]"/>
+                    <img src={"/assets/Dots.png"} alt="Dots" className="sm:absolute right-5 sm:flex hidden" />
+                    <img src={"/assets/rectangle.png"} alt="rectangle" className="sm:absolute left-5 bottom-0 sm:flex hidden" />
                 </div>
             </div>
             

@@ -16,20 +16,20 @@ const Skills = () => {
 
             <div className="relative">
                 <div className="w-[400px] sm:w-[500px] h-[500px]">
-                    <img className="w-full h-full rounded-2xl" src="src/assets/laptop.png" alt="Symposium" />
+                    <img className="w-full h-full rounded-2xl" src={"/assets/laptop.png"} alt="Symposium" />
                 </div>
 
                 <div className="absolute top-0">
-                    <img className="p-5" src="./src/assets/Dots.png" alt="Dots" />
+                    <img className="p-5" src={"/assets/Dots.png"} alt="Dots" />
                 </div>
 
                 <div className="absolute bottom-0">
-                    <img className="p-5" src="./src/assets/rectangle.png" alt="Dots" />
+                    <img className="p-5" src={"/assets/rectangle.png"} alt="Dots" />
                 </div>
 
 
                 <div className="absolute bottom-0 right-0">
-                    <img className="p-5" src="./src/assets/Dots.png" alt="Dots" />
+                    <img className="p-5" src={"/assets/Dots.png"} alt="Dots" />
                 </div>
             </div>
 
