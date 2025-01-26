@@ -19,17 +19,17 @@ const Hero = () => {
             <div className="relative ml-[5%]">
                 <img
                     className="sm:w-[200px] absolute sm:top-[10%] sm:left-[-100px] left-10"
-                    src="./src/assets/rectangle.png"
+                    src="/assets/rectangle.png"
                     alt="Rectangle"
                 />
                 <img
                     className="sm:w-[150px] absolute sm:right-[70px] right-10 bottom-13"
-                    src="./src/assets/Dots.png"
+                    src="/assets/Dots.png"
                     alt="Dots"
                 />
                 <img
                     className="sm:w-[550px] relative z-10 lg:left-0 left-[10%]"
-                    src="./src/assets/profilehero.png"
+                    src="/assets/profilehero.png"
                 ></img>
                 <div className="relative border-1 p-2 px-5 lg:left-[-100px] left-[-4%] bottom-[-10px] flex">
                 <div className='w-[21px] h-[21px] bg-[#C778DD] mr-5'></div>
