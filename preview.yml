@@ -1,0 +1,7 @@
+version: 1
+
+services:
+  web:
+    path: .
+    dockerfile: Dockerfile
+    port: 5173
